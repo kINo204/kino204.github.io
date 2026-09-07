@@ -16,6 +16,8 @@ node_modules
 package-lock.json
 
 # IDE configurations
+.obsidian/
+.obsidian.vimrc
 .idea
 .vscode/*
 !.vscode/settings.json
