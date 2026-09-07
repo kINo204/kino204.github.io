@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: kino
-  email: yaocyang@stu.pku.edu.cn # change to your email address
+  email: kinopku@outlook.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
@@ -106,7 +106,7 @@ avatar: ./assets/THE_CAT.jpg
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: false
 
 actions:
   # Display "Edit this post" action on each post page to encourage contributions.
